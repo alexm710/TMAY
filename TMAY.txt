@@ -1,0 +1,13 @@
+Hi, My name is Alex, I am 23 years old and I’m from North London. 
+Ever since a very young age I’ve always known that I wanted to be involved with some form of technology.
+Whenever family or friends needed any technical support I was always the first person they would come to.
+
+This led to me choosing Computer Science at the University of Brighton
+
+At University I got exposure to a wide range of different technologies, especially object oriented programming such as  OOP Java.
+I also have experience in web mark-up languagess such HTML/CSS which I particularly enjoy. 
+
+Finally I have experienced a good knowledge of relational databases such as SQL, and writing SQL queries. 
+
+A fun fact about me is that I rigorously trained and participated in a boxing charity event for Cancer Research UK infront of 1000+ people 
+during my final year of University. When I am not coding or solving problems you can find me regularly at my local rock climbing gym! 
